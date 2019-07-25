@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactBridge/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ReactBridge/static/js/main.64da2fa9.chunk.js",
-    "main.js.map": "/ReactBridge/static/js/main.64da2fa9.chunk.js.map",
+    "main.js": "/ReactBridge/static/js/main.b0df54fc.chunk.js",
+    "main.js.map": "/ReactBridge/static/js/main.b0df54fc.chunk.js.map",
     "runtime~main.js": "/ReactBridge/static/js/runtime~main.34918e2b.js",
     "runtime~main.js.map": "/ReactBridge/static/js/runtime~main.34918e2b.js.map",
     "static/js/2.b41502e9.chunk.js": "/ReactBridge/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/ReactBridge/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/ReactBridge/index.html",
-    "precache-manifest.3bc115870312b93b7f1d6836eb0b9c1b.js": "/ReactBridge/precache-manifest.3bc115870312b93b7f1d6836eb0b9c1b.js",
+    "precache-manifest.71f63dfa46cf9641ae61d0dd89b4580f.js": "/ReactBridge/precache-manifest.71f63dfa46cf9641ae61d0dd89b4580f.js",
     "service-worker.js": "/ReactBridge/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/ReactBridge/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/ReactBridge/static/media/logo.5d5d9eef.svg"
