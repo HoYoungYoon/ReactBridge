@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ca2c0f6f9982aaae2a2d8fe395c4d65",
+    "revision": "b1c79869be1c0baad76ed45053c57ff3",
     "url": "/ReactBridge/index.html"
   },
   {
-    "revision": "91790878bc47aab96043",
+    "revision": "b8797849b04941e9e838",
     "url": "/ReactBridge/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactBridge/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "91790878bc47aab96043",
-    "url": "/ReactBridge/static/js/main.21c6738a.chunk.js"
+    "revision": "b8797849b04941e9e838",
+    "url": "/ReactBridge/static/js/main.64da2fa9.chunk.js"
   },
   {
     "revision": "cefd5dc774ecad0a9dbd",
